@@ -49,7 +49,7 @@
 
 - [ ] 魔法秘艺 - 5E赫尔墨斯诸学派 - 秘仪教团
 
-  - [ ] 原文：[Ars Magica 5e - Houses of Hermes - Mystery Cults][https://github.com/OriginalMadman/Ars-Magica-Open-License/blob/912488955cb0f9a157740fd32b5807159f43f8f1/reviewed/Ars%20Magica%205e%20-%20Houses%20of%20Hermes%20-%20Mystery%20Cults.md]
+  - [ ] 原文：(Ars Magica 5e - Houses of Hermes - Mystery Cults)[https://github.com/OriginalMadman/Ars-Magica-Open-License/blob/912488955cb0f9a157740fd32b5807159f43f8f1/reviewed/Ars%20Magica%205e%20-%20Houses%20of%20Hermes%20-%20Mystery%20Cults.md]
 
   ### 正在翻译中
 
