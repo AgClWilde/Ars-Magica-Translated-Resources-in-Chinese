@@ -12,7 +12,8 @@
 - [ ] Houses of Hermes: Societates
 - [ ] Houses of Hermes: True Lineage
 - [ ] Houses of Hermes: Mystery Cults
+- [ ] Realms of Power: The Divine
 
 ### 正在翻译中
 
-- [ ] Realms of Power: The Divine
+- [ ] Realms of Power: The Infernal
