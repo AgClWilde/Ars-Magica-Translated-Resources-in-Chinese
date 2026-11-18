@@ -10,7 +10,9 @@
 
 翻译过程中使用了生成式 AI 辅助，并经过人工完整核对。这是我第一次承担如此规模的翻译项目，难免存在问题，欢迎提出修改建议或参与校对。
 
-可以通过 GitHub Issues、Pull Requests 或上述联系方式和我交流。如果你希望帮助推广本项目，或者有意合作，也欢迎联系！
+可以通过 GitHub Issues、Pull Requests 或上述联系方式和我交流，也可以在 [Atlas Games RPG Forum Topic 相关帖子](https://forum.atlas-games.com/t/ars-magica-definitive-edition-simplified-chinese-translation/177762)发布讨论。如果你希望帮助推广本项目，或者有意合作，也欢迎联系！
+
+
 
 ## 资源目录
 
