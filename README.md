@@ -16,25 +16,25 @@
 
 ### 已完成
 
-#### 官方规则及资料
+#### 官方资源
 
 **《魔法秘艺》定本核心规则（Ars Magica Definitive Edition）**
 
-- 原文：[Ars Magica Definitive Edition — Open License Reviewed](https://github.com/OriginalMadman/Ars-Magica-Open-License/blob/912488955cb0f9a157740fd32b5807159f43f8f1/reviewed/Ars Magica - Definitive Edition (Core Rules).md)
-- 中文译本：[Markdown](魔法秘艺 - 定本核心规则.md) | [PDF](魔法秘艺 - 定本核心规则.pdf) （由译者自行排版，未使用非公开素材）
+- 原文：[Ars Magica Definitive Edition — Open License Reviewed](https://github.com/OriginalMadman/Ars-Magica-Open-License/blob/912488955cb0f9a157740fd32b5807159f43f8f1/reviewed/Ars%20Magica%20-%20Definitive%20Edition%20%28Core%20Rules%29.md)
+- 中文译本：[Markdown](魔法秘艺%20-%20定本核心规则.md) | [PDF](魔法秘艺%20-%20定本核心规则.pdf)（由译者自行排版，未使用非公开素材）
 
 **《魔法秘艺》定本人物卡**
 
 - 原文：[ArMD Character Sheet — Printable, Color, Fillable](https://drive.google.com/file/d/1HExRBmzJKVxxf6SeN6iMzjew8vXU4mDO/view)
-- 中文版：[PDF](魔法秘艺 - 定本人物卡.pdf)
+- 中文版：[PDF](魔法秘艺%20-%20定本人物卡.pdf)
 
 **《魔法秘艺》第五版：《教会》（The Church）**
 
-- 原文：[Ars Magica 5e — The Church](https://github.com/OriginalMadman/Ars-Magica-Open-License/blob/912488955cb0f9a157740fd32b5807159f43f8f1/reviewed/Ars Magica 5e - The Church.md)
+- 原文：[Ars Magica 5e — The Church](https://github.com/OriginalMadman/Ars-Magica-Open-License/blob/912488955cb0f9a157740fd32b5807159f43f8f1/reviewed/Ars%20Magica%205e%20-%20The%20Church.md)
 
 **《魔法秘艺》第五版：《力量之界：神性》（Realms of Power: The Divine）**
 
-- 原文：[Realms of Power — The Divine (Revised)](https://github.com/OriginalMadman/Ars-Magica-Open-License/blob/912488955cb0f9a157740fd32b5807159f43f8f1/reviewed/Ars Magica 5e - Realms of Power - The Divine (Revised).md)
+- 原文：[Realms of Power — The Divine (Revised)](https://github.com/OriginalMadman/Ars-Magica-Open-License/blob/912488955cb0f9a157740fd32b5807159f43f8f1/reviewed/Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20The%20Divine%20%28Revised%29.md)
 
 **《魔法秘艺》第五版：《结社誓言与章程》**
 
@@ -67,16 +67,19 @@
 ### 正在校对
 
 - **《赫尔墨斯诸学派：社团》（Houses of Hermes: Societates）**
-  - [原文](https://github.com/OriginalMadman/Ars-Magica-Open-License/blob/912488955cb0f9a157740fd32b5807159f43f8f1/reviewed/Ars Magica 5e - Houses of Hermes - Societates.md)
+  - [原文](https://github.com/OriginalMadman/Ars-Magica-Open-License/blob/912488955cb0f9a157740fd32b5807159f43f8f1/reviewed/Ars%20Magica%205e%20-%20Houses%20of%20Hermes%20-%20Societates.md)
+
 - **《赫尔墨斯诸学派：真正血脉》（Houses of Hermes: True Lineages）**
-  - [原文](https://github.com/OriginalMadman/Ars-Magica-Open-License/blob/912488955cb0f9a157740fd32b5807159f43f8f1/reviewed/Ars Magica 5e - Houses of Hermes - True Lineages.md)
+  - [原文](https://github.com/OriginalMadman/Ars-Magica-Open-License/blob/912488955cb0f9a157740fd32b5807159f43f8f1/reviewed/Ars%20Magica%205e%20-%20Houses%20of%20Hermes%20-%20True%20Lineages.md)
+
 - **《赫尔墨斯诸学派：秘仪教团》（Houses of Hermes: Mystery Cults）**
-  - [原文](https://github.com/OriginalMadman/Ars-Magica-Open-License/blob/912488955cb0f9a157740fd32b5807159f43f8f1/reviewed/Ars Magica 5e - Houses of Hermes - Mystery Cults.md)
+  - [原文](https://github.com/OriginalMadman/Ars-Magica-Open-License/blob/912488955cb0f9a157740fd32b5807159f43f8f1/reviewed/Ars%20Magica%205e%20-%20Houses%20of%20Hermes%20-%20Mystery%20Cults.md)
 
 ### 正在翻译
 
 - **《力量之界：下界域》（Realms of Power: The Infernal）**
-  - [原文](https://github.com/OriginalMadman/Ars-Magica-Open-License/blob/main/reviewed/Ars Magica 5e - Realms of Power - The Infernal.md)
+  - [原文](https://github.com/OriginalMadman/Ars-Magica-Open-License/blob/main/reviewed/Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20The%20Infernal.md)
+
 
 ## 其他工具
 
